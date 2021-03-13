@@ -1,6 +1,6 @@
 package com.studypoint.companies.eka;
 
-public class SolutionOne {
+public class StringManipulation {
     public static void main(String[] args) {
         // NOTE: The following input values will be used for testing your solution.
         isOneAway("abcde", "abcd");  // should return true

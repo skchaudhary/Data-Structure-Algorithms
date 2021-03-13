@@ -4,7 +4,7 @@ package com.studypoint.companies.eka;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.ScheduledThreadPoolExecutor;
 
-public class SolutionTwo {
+public class PerformBankingWithoutUsingSyncronizedKeyword {
     public static void main(String[] args) {
         BankAccount bankAccount = new BankAccount("AC000", 100000);
 

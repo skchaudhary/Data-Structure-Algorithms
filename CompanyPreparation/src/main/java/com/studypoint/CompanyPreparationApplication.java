@@ -1,6 +1,6 @@
 package com.studypoint;
 
-public class RandomWorkApplication {
+public class CompanyPreparationApplication {
     public static void main(String[] args) {
 
     }

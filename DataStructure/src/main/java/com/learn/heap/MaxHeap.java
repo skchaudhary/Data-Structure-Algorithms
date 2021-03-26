@@ -1,4 +1,4 @@
-package com.learn.datastr;
+package com.learn.heap;
 
 public class MaxHeap {
     public static void main(String[] args) {

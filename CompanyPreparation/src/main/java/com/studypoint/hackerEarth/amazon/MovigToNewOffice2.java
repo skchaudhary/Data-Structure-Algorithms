@@ -1,4 +1,4 @@
-package com.learn.hackerEarth.amazon;
+package com.studypoint.hackerEarth.amazon;
 /* Moving to new office - Ad-optimization team is moving to their new office Safina Towers :) . But the problem is Safina towers
 don't have furniture, but you have wood-sheet. You are given a wood-sheet of length L . Since everyone wants to create their desk
 in their own style you have to give them some amount of wood. So, you are given N mark-down points (since ad-optimization team
@@ -9,7 +9,7 @@ size = (10-7) = 3 then wood cutter will cost 3 * 6+4 * 3 = 30 . As Amazonian you
 you want to give wood cutter a minimum amount of money and want to cut wood-sheet from every marking point between 1 to L
 (exclusive ) . please note that in all the test case first mark point=1 and last mark point = size of sheet (L). Please output
 minimum amount of money needed for every test case.*/
-import com.learn.hackerEarth.Reader;
+import com.studypoint.hackerEarth.Reader;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

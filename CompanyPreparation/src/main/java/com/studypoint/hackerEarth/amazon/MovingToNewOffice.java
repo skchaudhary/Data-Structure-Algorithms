@@ -1,4 +1,4 @@
-package com.learn.hackerEarth.amazon;
+package com.studypoint.hackerEarth.amazon;
 
 import com.learn.util.MyReader;
 

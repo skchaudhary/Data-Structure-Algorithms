@@ -1,4 +1,4 @@
-package com.learn.datastr;
+package com.learn.heap;
 
 public class MinHeap {
     public static void main(String[] args) {

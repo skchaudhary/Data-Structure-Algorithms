@@ -1,4 +1,4 @@
-package com.learn.hackerEarth.byju;
+package com.studypoint.hackerEarth.byju;
 
 import com.learn.util.MyReader;
 

@@ -1,4 +1,4 @@
-package com.learn.hackerEarth;
+package com.studypoint.hackerEarth;
 
 import java.io.DataInputStream;
 import java.io.FileInputStream;

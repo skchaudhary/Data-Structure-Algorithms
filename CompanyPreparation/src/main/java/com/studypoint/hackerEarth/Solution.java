@@ -1,8 +1,7 @@
-package com.learn.hackerEarth;
+package com.studypoint.hackerEarth;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class Solution

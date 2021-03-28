@@ -10,7 +10,12 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
+    <properties>
+        <start-class>com.AlgorithmsApplication</start-class>
+    </properties>
     <groupId>groupId</groupId>
     <artifactId>Algorithms</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+
 </project>

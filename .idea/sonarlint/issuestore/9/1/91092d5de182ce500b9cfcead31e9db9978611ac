@@ -1,0 +1,20 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( Ÿíßÿÿÿÿÿ
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Çµí‘8×ıš€‡/
+B
+java:S1659"%Declare "current" on a separate line.(»¤×8×ıš€‡/
+9
+java:S1116"Remove this empty statement.(®–İ»8×ıš€‡/
+9
+java:S1116"Remove this empty statement.(—Ú¸8×ıš€‡/
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(ı·‡‘øÿÿÿÿ8×ıš€‡/
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(ûãÁùùÿÿÿÿ8×ıš€‡/
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(ı·‡‘øÿÿÿÿ8×ıš€‡/
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ûãÁùùÿÿÿÿ8×ıš€‡/
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(ı·‡‘øÿÿÿÿ8×ıš€‡/
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(ûãÁùùÿÿÿÿ8×ıš€‡/
+J
+java:S1172Y"-Remove this unused method parameter "userId".(µçÕş8×ıš€‡/
+O
+java:S1172g"-Remove this unused method parameter "userId".(‡Á¿Èÿÿÿÿÿ8×ıš€‡/

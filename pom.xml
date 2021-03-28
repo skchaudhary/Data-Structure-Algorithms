@@ -39,7 +39,7 @@
 	<modules>
 		<module>Algorithms</module>
 		<module>DataStructure</module>
-		<module>RandomWork</module>
+		<module>CompanyPreparation</module>
 	</modules>
 
 	<build>

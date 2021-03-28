@@ -1,0 +1,18 @@
+
+7
+java:S1659O"!Declare "div" on a separate line.(†‡Δ‘
+I
+java:S1121`".Extract the assignment out of this expression.(•ΦΌΩύÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( νίÿÿÿÿÿ
+I
+java:S1121k".Extract the assignment out of this expression.(΅·νΊώÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ιξύÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(Η”θωÿÿÿÿ
+5
+java:S1659"Declare "c" on a separate line.(®ήΪ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Η”θωÿÿÿÿ
+p	java:S116"VRename this field "BUFFER_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Η”θωÿÿÿÿ
+=
+java:S1659"'Declare "bytesRead" on a separate line.(„±ƒ

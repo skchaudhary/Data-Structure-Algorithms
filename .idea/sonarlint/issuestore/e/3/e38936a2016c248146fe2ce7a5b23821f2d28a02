@@ -1,0 +1,17 @@
+
+J
+java:S1066g"/Merge this if statement with the enclosing one.(ì˜Ëúÿÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·öŽÈÿÿÿÿÿ
+l
+java:S1450	"QRemove the "sc" field and declare it as a local variable in the relevant methods.(Ù¿ó¼üÿÿÿÿ
+:
+java:S1659"Declare "m" on a separate line.(žÑØšþÿÿÿÿ
+:
+java:S1659"Declare "n" on a separate line.(žÑØšþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»â¿Ë
+M
+java:S1135""2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+h
+java:S3776L"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(®’Œ×
+M
+java:S1135M"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
